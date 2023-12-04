@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/hamid1882](https://www.github.com/hamid1882)
 
-- 📝 I regularly write articles on [https://thejourneytocode.blogspot.com/2022/07/hey-readers-today-i-am-gonna-share-some.html?m=1](https://thejourneytocode.blogspot.com/2022/07/hey-readers-today-i-am-gonna-share-some.html?m=1)
+- 📝 I regularly write articles on [Medium.com](https://medium.com/@hamid1882)
 
 - 💬 Ask me about **react, nextjs, tailwind, antd and supabase**
 
